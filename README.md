@@ -14,5 +14,7 @@
 
 * 2.[JDK1.6中文版](./API/JDK1.6 API帮助文档.CHM)
 
+* 3.[vim中文帮助手册](http://vimcdoc.sourceforge.net/doc/help.html)
+
 	
 
